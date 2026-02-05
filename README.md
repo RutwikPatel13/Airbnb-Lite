@@ -225,10 +225,6 @@ This project is configured for deployment on **Render** using the `render.yaml` 
 
 MIT License - feel free to use this project for learning or as a starting point for your own projects.
 
-## 🙏 Acknowledgments
-
-Inspired by [AirBnb Java Backend](https://github.com/Amanshakya-code/AirBnb) by Amanshakya-code.
-
 ---
 
 Made with ❤️ using FastAPI
