@@ -2,6 +2,8 @@
 
 A full-featured hotel booking backend API built with **FastAPI** and **PostgreSQL**. This project replicates core Airbnb functionality including user authentication, hotel management, room booking, and payment processing.
 
+https://github.com/user-attachments/assets/b4af1f9b-4234-49aa-b010-5692851b18e8
+
 ## 🌐 Live Demo
 
 - **API Base**: https://airbnblite-api.onrender.com
