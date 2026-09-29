@@ -67,3 +67,6 @@ venv.bak/
 # Database
 *.db
 *.sqlite3
+
+# Launch video output
+brag-output/
